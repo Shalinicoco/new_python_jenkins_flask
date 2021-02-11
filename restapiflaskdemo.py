@@ -8,6 +8,7 @@ app = express()
 
 app.get('',())
 app.post('',())
+app.push(' ',())
 """
 
 import json
