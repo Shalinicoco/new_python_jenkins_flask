@@ -9,7 +9,7 @@ app = express()
 app.get('',())
 app.post('',())
 app.push(' ',())
-app
+app.get()
 """
 
 import json
